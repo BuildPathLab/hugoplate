@@ -68,6 +68,6 @@ features:
     button:
       label: ""
       link: ""
-draft: true
+draft: false
 ---
 ​
